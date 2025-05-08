@@ -1,0 +1,27 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.so
+
+# Virtual environment
+venv/
+.env/
+.env.bak/
+.venv/
+ENV/
+env/
+env.bak/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# PyCharm / IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+
+
